@@ -1,0 +1,2 @@
+const double MOBILE_BREAKPOINT = 700.0;
+const double TABLET_BREAKPOINT = 1200.0;
